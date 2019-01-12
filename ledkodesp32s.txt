@@ -1,5 +1,5 @@
 #include <SoftwareSerial.h>
-
+//deneme
 SoftwareSerial bluetoothModulu(10, 11); 
 /* Arduino  ->  Bluetooth modulu
   10 (Rx)   ->  Tx
